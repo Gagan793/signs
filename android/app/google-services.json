@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665243629877",
+    "project_id": "signs-f7abb",
+    "storage_bucket": "signs-f7abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665243629877:android:be5315338e7bbc9bfaf47c",
+        "android_client_info": {
+          "package_name": "com.example.emotion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfev8Xa_vXPbA_fylpQoScdi7jpBQN4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665243629877:android:fc4c29e1f07fd358faf47c",
+        "android_client_info": {
+          "package_name": "com.example.signs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfev8Xa_vXPbA_fylpQoScdi7jpBQN4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
